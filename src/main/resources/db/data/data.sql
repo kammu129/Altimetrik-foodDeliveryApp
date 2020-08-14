@@ -1,0 +1,7 @@
+insert into customer (cart, location, name, customer_id) values (null, null, 'kamlesh', random_uuid())
+insert into address (house_no, locality, pin_code, address_id) values ('444', 'taramandal', 836452, '0aea1d041b0040868595fbff1f0045cb')
+insert into customer (cart, location, name, customer_id) values (null, '0aea1d041b0040868595fbff1f0045cb', 'sanjay', random_uuid())
+insert into address (house_no, locality, pin_code, address_id) values ('445', 'akashganga', 836457, '7e2a0202155c487298114f5045168efc')
+insert into customer (cart, location, name, customer_id) values (null, '7e2a0202155c487298114f5045168efc', 'rami', 'd69e2dbc14164a18a301c8c5248e4dd0')
+insert into address (house_no, locality, pin_code, address_id) values ('445', 'mars', 836457, '6e21494a73b84917a39b6c21e401da6f')
+insert into customer (cart, location, name, customer_id) values (null,'6e21494a73b84917a39b6c21e401da6f', 'chamcham',  '8bce5ea14179460fac6a9ee0da81b1dd')
